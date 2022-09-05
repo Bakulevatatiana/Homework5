@@ -23,7 +23,6 @@ public class Main {
 
         int deliveryDistance = 100;
         double d=(deliveryDistance-20)/40+1;
-
         System.out.println(Math.ceil(d));
 
 
